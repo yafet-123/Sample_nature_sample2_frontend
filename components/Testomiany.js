@@ -2,8 +2,8 @@ import React from "react";
 
 export function Testomiany() {
   return (
-    <div className="flex flex-col bg-black py-20 px-32 ">
-      <div className="grid grid-cols-1 lg:grid-cols-2 gap-5 mb-10">
+    <div className="flex flex-col bg-black py-20  ">
+      <div className="grid grid-cols-1 lg:grid-cols-2 gap-5 mb-10 px-32">
         <div className="testomiany-background-one w-36 h-36 border rounded-full"></div>
         <div className="flex flex-col">
           <p className="text-white font-normal w-3/4 tracking-wide text-base mb-5">
@@ -19,7 +19,7 @@ export function Testomiany() {
         </div>
       </div>
 
-      <div className="grid grid-cols-1 lg:grid-cols-2 gap-5">
+      <div className="grid grid-cols-1 lg:grid-cols-2 gap-5 mb-10 px-32 ">
         <div className="flex flex-col">
           <p className="text-white font-normal w-3/4 tracking-wide text-base mb-5">
             Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
@@ -35,7 +35,25 @@ export function Testomiany() {
         <div className="testomiany-background-two w-36 h-36 border rounded-full"></div>
       </div>
 
-      <div className="testomiany-background-three w-full h-96 -px-20 my-10"></div>
+      <div className="testomiany-background-three w-full h-[30rem] mb-10"></div>
+
+      <div className="grid grid-cols-1 lg:grid-cols-2 gap-5 mb-10 px-32">
+        <div className=""></div>
+        <div className="flex flex-col justify-between px-20 md:px-0">
+          <h1 className="text-white text-4xl text-left font-bold uppercase mb-5 tracking-wide">
+            take a hike
+          </h1>
+          -
+          <p className="text-white font-normal w-3/4 tracking-wide text-base mb-5">
+            Go hiking in ethopia and discover why the local can't ge enough of
+            nature. Our most scenric landscape are defineitly best enjoeyed on
+            foot.
+          </p>
+          <button className="p-3 bg-yellow-500 capitalize text-lg w-1/4 text-white font-bold">
+            Read more
+          </button>
+        </div>
+      </div>
     </div>
   );
 }
