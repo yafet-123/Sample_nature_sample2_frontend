@@ -3,6 +3,7 @@ import Image from "next/image";
 import { AboutUs } from "../components/AboutUs";
 import { Gallery } from "../components/Gallery";
 import { Hero } from "../components/Hero";
+import { Hiking } from "../components/Hiking";
 
 export default function Home() {
   return (
@@ -10,6 +11,7 @@ export default function Home() {
       <Hero />
       <AboutUs />
       <Gallery />
+      <Hiking />
     </div>
   );
 }
