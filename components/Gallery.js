@@ -2,9 +2,9 @@ import React from "react";
 
 export function Gallery() {
   return (
-    <div className="grid grid-cols-1 md:grid-cols-3 gap-5 py-20 md:px-20 bg-black">
+    <div className="grid grid-cols-1 md:grid-cols-3 lg:gap-5 py-20 md:px-20 bg-black">
       <div className="w-full h-full flex flex-col">
-        <div className="gallery-background-one w-full h-full mb-5 pt-64 pl-5">
+        <div className="gallery-background-one w-full h-full lg:mb-5 pt-64 pl-5">
           <h1 className="text-white text-2xl text-left font-bold uppercase mb-5 tracking-wide">
             find your path
           </h1>
@@ -21,13 +21,13 @@ export function Gallery() {
       </div>
 
       <div className="w-full h-full flex flex-col">
-        <div className="gallery-background-seven w-full h-96 mb-5"></div>
-        <div className="gallery-background-four w-full h-96 mb-5"></div>
+        <div className="gallery-background-seven w-full h-96 lg:mb-5"></div>
+        <div className="gallery-background-four w-full h-96 lg:mb-5"></div>
         <div className="gallery-background-five w-full h-96"></div>
       </div>
 
       <div className="w-full h-full flex flex-col">
-        <div className="gallery-background-six w-full h-full mb-5"></div>
+        <div className="gallery-background-six w-full h-full lg:mb-5"></div>
         <div className="gallery-background-three w-full h-full pt-64 pl-5">
           <h1 className="text-white text-2xl text-left font-bold uppercase mb-5 tracking-wide">
             Go hiking

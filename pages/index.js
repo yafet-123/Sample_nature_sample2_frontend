@@ -9,7 +9,7 @@ import { Testomiany } from "../components/Testomiany";
 
 export default function Home() {
   return (
-    <div className="">
+    <div className="w-full h-full">
       <Hero />
       <AboutUs />
       <Gallery />
