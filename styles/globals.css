@@ -22,3 +22,52 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.gallery-background-one {
+  background-image: url("../public/images/bgImage4.avif");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.gallery-background-two {
+  background-image: url("../public/images/bgImage5.avif");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.gallery-background-three {
+  background-image: url("../public/images/bgImage6.avif");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.gallery-background-four {
+  background-image: url("../public/images/bgImage7.avif");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.gallery-background-five {
+  background-image: url("../public/images/bgImage8.avif");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.gallery-background-six {
+  background-image: url("../public/images/bgImage9.avif");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.gallery-background-seven {
+  background-image: url("../public/images/bgImage10.avif");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

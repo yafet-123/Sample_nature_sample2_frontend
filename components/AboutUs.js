@@ -2,8 +2,8 @@ import React from "react";
 
 export function AboutUs() {
   return (
-    <div className="grid grid-cols-1 lg:grid-cols-3 gap-5 p-20 bg-black">
-      <div className="flex flex-col justify-between">
+    <div className="grid grid-cols-1 md:grid-cols-3 gap-5 py-20 md:px-20 bg-black">
+      <div className="flex flex-col justify-between px-20 md:px-0">
         <h1 className="text-white text-2xl text-left font-bold uppercase mb-5 tracking-wide">
           About Us
         </h1>
