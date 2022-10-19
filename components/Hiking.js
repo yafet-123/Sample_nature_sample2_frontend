@@ -22,7 +22,12 @@ export function Hiking() {
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
         <div className="flex flex-col justify-between ">
-          <Image src="/images/bgImage12.avif" width={250} height={250} />
+          <Image
+            src="/images/bgImage12.avif"
+            width={250}
+            height={250}
+            al="xc"
+          />
           <p className="text-white font-normal w-full lg:w-3/4 tracking-wide text-base my-5 px-20 md:px-0">
             Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
             nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
@@ -35,7 +40,12 @@ export function Hiking() {
         </div>
 
         <div className="flex flex-col justify-between">
-          <Image src="/images/bgImage13.avif" width={250} height={250} />
+          <Image
+            src="/images/bgImage13.avif"
+            width={250}
+            height={250}
+            alt="sdj"
+          />
           <p className="text-white font-normal w-full lg:w-3/4 tracking-wide text-base my-5 px-20 md:px-0">
             Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
             nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in

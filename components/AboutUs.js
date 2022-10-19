@@ -9,7 +9,7 @@ export function AboutUs() {
         </h1>
         -
         <p className="text-white font-normal w-3/4 tracking-wide text-base mb-5">
-          Go hiking in norway and discover why the local can't ge enough of
+          Go hiking in norway and discover why the local can not ge enough of
           nature. Our most scenric landscape are defineitly best enjoeyed on
           foot.
         </p>

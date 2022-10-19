@@ -58,7 +58,7 @@ export function RighThings() {
           </h1>
           -
           <p className="text-white font-normal w-3/4 tracking-wide text-xl mb-5">
-            Go hiking in ethopia and discover why the local can't ge enough of
+            Go hiking in ethopia and discover why the local can not ge enough of
             nature. Our most scenric landscape are defineitly best enjoeyed on
             foot.Ut enim ad minim veniam, quis nostrud exercitation ullamco
             laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
