@@ -53,11 +53,11 @@ export function RighThings() {
 
       <div className="RighThings-background-two w-full h-full md:h-[30rem] p-20 grid grid-cols-1 lg:grid-cols-2 gap-5">
         <div className="flex flex-col ">
-          <h1 className="text-white text-2xl text-left font-bold uppercase mb-5 tracking-wide">
+          <h1 className="text-black text-2xl text-left font-bold uppercase mb-5 tracking-wide">
             Hiking with Ehopian Hikking Associaion
           </h1>
           -
-          <p className="text-white font-normal w-3/4 tracking-wide text-base mb-5">
+          <p className="text-black font-normal w-3/4 tracking-wide text-xl mb-5">
             Go hiking in ethopia and discover why the local can't ge enough of
             nature. Our most scenric landscape are defineitly best enjoeyed on
             foot.Ut enim ad minim veniam, quis nostrud exercitation ullamco
@@ -71,7 +71,7 @@ export function RighThings() {
         </div>
 
         <div className="flex flex-col ">
-          <p className="text-white font-normal w-3/4 tracking-wide text-base mb-5">
+          <p className="text-black font-normal w-3/4 tracking-wide text-base mb-5">
             Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
             nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
             reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla

@@ -2,14 +2,14 @@ import React from "react";
 
 export function AboutUs() {
   return (
-    <div className="grid grid-cols-1 md:grid-cols-3 lg:gap-5 py-20 md:px-20 bg-black">
+    <div className="grid grid-cols-1 md:grid-cols-3 gap-2 lg:gap-5 pt-5 lg:pt-0 py-0 lg:py-20 md:px-20 bg-black">
       <div className="flex flex-col justify-between px-20 md:px-0">
         <h1 className="text-white text-2xl text-left font-bold uppercase mb-5 tracking-wide">
           About Us
         </h1>
         -
         <p className="text-white font-normal w-3/4 tracking-wide text-base mb-5">
-          Go hiking in ethopia and discover why the local can't ge enough of
+          Go hiking in norway and discover why the local can't ge enough of
           nature. Our most scenric landscape are defineitly best enjoeyed on
           foot.
         </p>

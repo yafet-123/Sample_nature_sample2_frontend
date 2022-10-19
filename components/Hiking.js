@@ -6,7 +6,7 @@ export function Hiking() {
     <div className="bg-black w-full h-full px-0 md:px-20 pb-24">
       <div className="flex flex-col px-20 md:px-0">
         <h1 className="text-white text-5xl text-left font-bold uppercase mb-5 tracking-wide">
-          Hiking in Ethopia
+          Hiking in Norway
         </h1>
         -
         <p className="text-white font-normal w-full lg:w-1/2 tracking-wide text-base mb-5">
