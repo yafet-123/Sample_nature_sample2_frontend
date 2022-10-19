@@ -26,7 +26,7 @@ export function Hiking() {
             src="/images/bgImage12.avif"
             width={250}
             height={250}
-            al="xc"
+            alt="xc"
           />
           <p className="text-white font-normal w-full lg:w-3/4 tracking-wide text-base my-5 px-20 md:px-0">
             Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
