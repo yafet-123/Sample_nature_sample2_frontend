@@ -5,7 +5,7 @@ export function RighThings() {
     <div className="flex flex-col h-full w-full bg-black ">
       <div className="RighThings-background-one w-full h-full md:h-[30rem] pt-10 px-20">
         <h1 className="text-white text-5xl text-left font-bold uppercase mb-5 tracking-wide">
-          Hiking in Ethopia
+          Hiking in Norway
         </h1>
         -
         <p className="text-white font-normal w-full lg:w-2/4 tracking-wide text-xl mb-5">
@@ -54,7 +54,7 @@ export function RighThings() {
       <div className="RighThings-background-two w-full h-full md:h-[30rem] p-20 grid grid-cols-1 lg:grid-cols-2 gap-5">
         <div className="flex flex-col ">
           <h1 className="text-white text-2xl text-left font-bold uppercase mb-5 tracking-wide">
-            Hiking with Ehopian Hikking Associaion
+            Hiking with Norway Hikking Associaion
           </h1>
           -
           <p className="text-white font-normal w-3/4 tracking-wide text-xl mb-5">
