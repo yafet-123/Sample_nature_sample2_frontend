@@ -14,7 +14,7 @@ export function Testomiany() {
             culpa qui officia deserunt mollit anim id est laborum.
           </p>
           <h1 className="text-white text-2xl text-left font-bold uppercase mb-5 tracking-wide">
-            yafet Addisu
+            sara james
           </h1>
         </div>
       </div>
@@ -29,7 +29,7 @@ export function Testomiany() {
             culpa qui officia deserunt mollit anim id est laborum.
           </p>
           <h1 className="text-white text-2xl text-left font-bold uppercase mb-5 tracking-wide">
-            biniyam tolosa
+            Helen james
           </h1>
         </div>
         <div className="testomiany-background-two w-36 h-36 border rounded-full"></div>
